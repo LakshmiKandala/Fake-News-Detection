@@ -26,5 +26,5 @@ This project is a Machine Learning-based Fake News Detection System built using 
 ### 📁 Dataset Used:
 Dataset is available in the repo: `news.csv`
 
-### 🏁 To Run the Project:
+
 
